@@ -21,6 +21,6 @@ Parameters are same as for <a href="https://semantria.com/developer">SemantriaJa
 | consumerKey | Semantria API key | 
 | consumerSecret | Semantria API secret | 
 | applicationName | (Optional) Reference name for application | 
-| format | (Optional) Default: JSON | 
+| format | (Optional) Default: "json" | 
 | useCompression | (Optional) | 
 
