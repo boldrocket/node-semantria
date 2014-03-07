@@ -8,9 +8,10 @@ NodeJS wrapper for SemantriaJavaScriptSDK (v.3.5.76)
 npm install semantria
 
 ### Usage
+```js
 var Semantria = require('semantria');
-var SemantriaSession = Semantria.Session( consumerKey, consumerSecret, applicationName, format, useCompression )
-
+var SemantriaSession = Semantria.Session( consumerKey, consumerSecret, applicationName, format, useCompression );
+```
 Parameters are same as for <a href="https://semantria.com/developer">SemantriaJavaScriptSDK</a>.
 
 | Parameter        | Description           | 
