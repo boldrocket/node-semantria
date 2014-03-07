@@ -1,5 +1,5 @@
 {
-  "name": "node-semantria",
+  "name": "semantria",
   "version": "3.5.76",
   "description": "NodeJS wrapper for SemantriaJavaScriptSDK (v.3.5.76)",
   "main": "index.js",
