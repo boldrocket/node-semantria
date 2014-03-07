@@ -1,0 +1,29 @@
+{
+  "name": "node-semantria",
+  "version": "3.5.76",
+  "description": "NodeJS wrapper for SemantriaJavaScriptSDK (v.3.5.76)",
+  "main": "index.js",
+  "directories": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boldrocket/node-semantria.git"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "semantria",
+    "\"natural",
+    "language",
+    "processing\"",
+    "nlp"
+  ],
+  "author": "Richard Sands",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boldrocket/node-semantria/issues"
+  },
+  "homepage": "https://github.com/boldrocket/node-semantria"
+}
