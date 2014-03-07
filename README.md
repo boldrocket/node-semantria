@@ -5,7 +5,9 @@ NodeJS wrapper for SemantriaJavaScriptSDK (v.3.5.76)
 
 ### Quick Start
 
+```
 npm install semantria
+```
 
 ### Usage
 ```js
